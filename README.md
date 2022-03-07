@@ -2,25 +2,9 @@
 
 
 ### [中文版](https://github.com/Xeift/Kizmeow-OpenSea-and-Etherscan-Discord-Bot/blob/main/%E8%AE%80%E6%88%91.md) | [English Ver](https://github.com/Xeift/Kizmeow-OpenSea-and-Etherscan-Discord-Bot/blob/main/README.md)
-A Discord bot wrote with Python. Kizmeow let you track your NFT project and display some useful information(e.g. market cap, floor price, total supply, eth price, gas fee, transaction history, display NFT owner, download original resolution NFT image...etc) by calling Etherscan and OpenSea API.(This repl is in development)
+A Discord bot wrote with Python. Kizmeow let you track mint progress of your NFT project and display them by editing channel name.
 
 If you like this project, please give me star on the upper right corner:)
-
-This repl is not finish yet. If you want to try, you can simply click the blue letter below and invite the bot to your test server.
-There are still some bugs, I'll fix them ASAP.
-
-Please use this version, V2 follows the modular design and I fixed some bugs in the previous version. There's no Chinese version for V2 currently.
-
-[Kizmeow NFT Tracker V2 invite link](https://discord.com/api/oauth2/authorize?client_id=923512417907015693&permissions=534723951680&scope=applications.commands%20bot)
-
-[Kizmeow NFT Tracker V2 repl.it](https://replit.com/@xeiftc/Kizmeow-NFT-Tracker-V2)
-
-These bots are just demos, if you found commands not work, please kick the bot and reinvite it to your server.
-If you found bots offline, that's normal, I run these bots on repl.it, somtimes bots will offline because many people use my demo bots.
-If you want a stable bot, I suggest you build your own bot base on my code, or run the bot on your computer insted of on repl.it
-
-If you no nothing about coding, I suggest you contact me via Discord Xeift#1230, I can create customize bot for your project for free(for minor changes in original bot, I don't have time to create a fully customize bot for you).
-Or you can just simply click the blue letter above and invite the bot to your server.
 
 Quickstart
 -----------------
