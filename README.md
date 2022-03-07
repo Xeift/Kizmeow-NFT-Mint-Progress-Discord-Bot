@@ -50,7 +50,7 @@ Whether you choose first or second method, you'll need [Discord bot token](https
 
 Check out [this](https://www.youtube.com/watch?v=WFP9LdiB8yk) video for basic setup.
 
-Generate bot invite link by check these permission and copy link.
+go to [dev portal](https://discord.com/developers/applications) and generate bot invite link by check these permission and copy link.
 
 ![image](https://user-images.githubusercontent.com/80938768/156952335-4652d4b5-bae4-48c4-a44f-44379809defe.png)
 
