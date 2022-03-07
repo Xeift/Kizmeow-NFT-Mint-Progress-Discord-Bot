@@ -60,7 +60,7 @@ You can run it on repl.it, just fork [it](https://replit.com/@xeiftc/Kizmeow-Min
 Next, copy the link here, ![image](https://user-images.githubusercontent.com/80938768/146533872-021b05b3-f18c-44db-a943-527903dc6616.png) create a [Uptimerbot](https://uptimerobot.com/) account and paste your link here. ![image](https://user-images.githubusercontent.com/80938768/146534310-74201ab2-700e-4271-94a2-f2ecf8d12acb.png)
 
 ### 2.run it on your computer(local)
-Just download [it](https://github.com/Xeift/Kizmeow-OpenSea-and-Etherscan-Discord-Bot/archive/refs/heads/main.zip) and install all the packages in **Requirement**, make sure you have install python. Remember to change discord bot token and Etherscan API key. Then, run main.py
+Just download [it](https://github.com/Xeift/Kizmeow-NFT-Mint-Progress-Discord-Bot/archive/refs/heads/main.zip) and install all the packages in **Requirement**, make sure you have install python. Remember to change discord bot token and Etherscan API key. Then, run main.py
 
 After you finish 1 or 2 above, you need to give the bot enough permission in the voice channel.
 
