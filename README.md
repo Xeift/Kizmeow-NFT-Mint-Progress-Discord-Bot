@@ -7,7 +7,7 @@ A Discord bot wrote with Python. Kizmeow let you track mint progress of your NFT
 If you like this project, please give me star on the upper right corner:)
 
 
-What can these bots do?
+What can this bot do?
 -----------------
 Get data from Etherscan and display mint progress by change channel name of voice channel.
 
