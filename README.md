@@ -55,7 +55,18 @@ Next, copy the link here, ![image](https://user-images.githubusercontent.com/809
 ### 2.run it on your computer(local)
 Just download [it](https://github.com/Xeift/Kizmeow-OpenSea-and-Etherscan-Discord-Bot/archive/refs/heads/main.zip) and install all the packages in **Requirement**, make sure you have install python. Remember to change discord bot token and Etherscan API key. Then, run main.py
 
-After you finish 1 or 2 above,
+After you finish 1 or 2 above, you need to give the bot enough permission in the voice channel.
+
+Add the bot role to the voice channel and give it the following permission: `view channel` `manage channel` `connect`
+
+![image](https://user-images.githubusercontent.com/80938768/156951642-b6e55c46-9e92-4020-a5e5-224c0a4594b5.png)
+
+
+invite the bot to your server and type `/config` to setup your bot.
+
+There are 4 options in this command.
+
+`channel_id` the
 
 Bot Avatar Illustrator
 -----------------
