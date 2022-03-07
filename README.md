@@ -50,6 +50,11 @@ Whether you choose first or second method, you'll need [Discord bot token](https
 
 Check out [this](https://www.youtube.com/watch?v=WFP9LdiB8yk) video for basic setup.
 
+Generate bot invite link by check these permission and copy link.
+
+![image](https://user-images.githubusercontent.com/80938768/156952335-4652d4b5-bae4-48c4-a44f-44379809defe.png)
+
+
 ### 1.run it on repl.it(cloud)
 You can run it on repl.it, just fork [it](https://replit.com/@xeiftc/Kizmeow-Mint-Progress) and run. Remember to change discord bot token, then put it in environment variable. **DO NOT PUT TOKENS IN YOUR CODE DIRECTLY** cuz repls on replit is public if you use their free plan, and there are some ppl using script to grab your token.
 Next, copy the link here, ![image](https://user-images.githubusercontent.com/80938768/146533872-021b05b3-f18c-44db-a943-527903dc6616.png) create a [Uptimerbot](https://uptimerobot.com/) account and paste your link here. ![image](https://user-images.githubusercontent.com/80938768/146534310-74201ab2-700e-4271-94a2-f2ecf8d12acb.png)
