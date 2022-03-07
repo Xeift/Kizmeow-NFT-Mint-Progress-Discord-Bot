@@ -55,6 +55,8 @@ Next, copy the link here, ![image](https://user-images.githubusercontent.com/809
 ### 2.run it on your computer(local)
 Just download [it](https://github.com/Xeift/Kizmeow-OpenSea-and-Etherscan-Discord-Bot/archive/refs/heads/main.zip) and install all the packages in **Requirement**, make sure you have install python. Remember to change discord bot token and Etherscan API key. Then, run main.py
 
+After you finish 1 or 2 above,
+
 Bot Avatar Illustrator
 -----------------
 [姬玥 Kiyue](https://www.facebook.com/profile.php?id=100026170072950)
