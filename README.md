@@ -13,13 +13,8 @@ Get data from Etherscan and display mint progress by change channel name of voic
 
 ![image](https://user-images.githubusercontent.com/80938768/156949496-d08b131e-8702-4045-801a-6a3aa6aab7a2.png)
 
--------------------------------------------------------------------------------------------------------------------------------------------------
-
-note: collection_slug is the text at the end of OpenSea url
-
-![image](https://user-images.githubusercontent.com/80938768/155941533-a9e86c86-54e5-4708-b1fe-0b05ca48033c.png)
-
-
+Commands
+-----------------
 `/project-realtime`
 
 display real-time price of specific project. option:project_name
