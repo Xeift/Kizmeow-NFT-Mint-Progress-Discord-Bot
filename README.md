@@ -6,27 +6,12 @@ A Discord bot wrote with Python. Kizmeow let you track mint progress of your NFT
 
 If you like this project, please give me star on the upper right corner:)
 
-Quickstart
------------------
-As you can see, there are 3 folders.
-
-![image](https://user-images.githubusercontent.com/80938768/149684882-782ed648-f0cc-4721-9a52-6e50c168c185.png)
-
-I put the code of old bot in `achive` folder.
-
-`Kizmeow NFT Tracker V2` is the main bot, most functions are in this bot. In order to use this bot, you need **Etherscan API key**.
-
-`Kizmeow OpenSea Trade Tracker` is the bot that will send embed message in specific channel when there's a list or sold event on OpenSea. This is its only function. In order to use this bot, you need **Etherscan API key** and **OpenSea API key**.
 
 What can these bots do?
 -----------------
-### `Kizmeow OpenSea Trade Tracker`
+Get data from Etherscan and display mint progress by change channel name of voice channel.
 
-send message in specific channel when there's a list or sold event of your NFT collection on OpenSea
-
-![image](https://user-images.githubusercontent.com/80938768/149489498-5e80a294-a9a6-4a3d-8af2-fdcb6d530ba1.png)
-
-### `Kizmeow NFT Tracker V2`
+![image](https://user-images.githubusercontent.com/80938768/156949496-d08b131e-8702-4045-801a-6a3aa6aab7a2.png)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
