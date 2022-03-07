@@ -73,7 +73,14 @@ invite the bot to your server and type `/config` to setup your bot.
 
 There are 4 options in this command.
 
-`channel_id` the
+`channel_id` the discord real id of the voice channel, go to discord settings >> advance >> turn on developer mode, right click voice channel and copy id
+
+`contract_address` your NFT contract addresss
+
+`total_supply` the total supply of your NFT
+
+`etherscan_api_key` you can request one [here](https://etherscan.io/myapikey)
+
 
 Bot Avatar Illustrator
 -----------------
