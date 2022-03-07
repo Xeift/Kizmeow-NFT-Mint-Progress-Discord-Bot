@@ -15,29 +15,17 @@ Get data from Etherscan and display mint progress by change channel name of voic
 
 Commands
 -----------------
-`/project-realtime`
+`/config`
 
 display real-time price of specific project. option:project_name
 
-`/project-history`
+`/config_check`
 
 display history price of specific project. option:project_name
 
-`/project-nft`
+`/ping`
 
 search the NFT of a specific collection and token id. option:contract_address token_id
-
-`/project-rarity`
-
-calculate the rarity of a specific NFT. option:collection_slug token_id
-
-`/txn`
-
-enter the address and display the transaction record. option: eth_address
-
-`/account_info`
-
-enter the address to display ETH balance and Demi NFT balance. option: eth_address
 
 Requirements
 -----------------
@@ -49,18 +37,11 @@ Requirements
 
 + discord
 + discord-py-slash-command
-+ qrcode
 + urllib
 + json
 + asyncio
 + request
 + flask
-
-Video Tutorial
------------------
-If you want to use different version bot, change the repl.it link I fork in the video.
-
-https://www.youtube.com/watch?v=WFP9LdiB8yk
 
 Usage
 -----------------
@@ -73,12 +54,6 @@ Next, copy the link here, ![image](https://user-images.githubusercontent.com/809
 
 ### 2.run it on your computer(local)
 Just download [it](https://github.com/Xeift/Kizmeow-OpenSea-and-Etherscan-Discord-Bot/archive/refs/heads/main.zip) and install all the packages in **Requirement**, make sure you have install python. Remember to change discord bot token and Etherscan API key. Then, run main.py
-
-Official Website
------------------
-https://watercatuwu.github.io/kizmeow-nft-site/ 
-
-by WaterCatMeow
 
 Bot Avatar Illustrator
 -----------------
