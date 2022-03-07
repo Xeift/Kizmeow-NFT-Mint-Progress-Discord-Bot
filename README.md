@@ -1,7 +1,7 @@
 # Kizmeow-NFT-Mint-Progress-Discord-Bot(editing, I'll finish it tommorow, I'm too tired now UwU)
 
 
-### [中文版](https://github.com/Xeift/Kizmeow-OpenSea-and-Etherscan-Discord-Bot/blob/main/%E8%AE%80%E6%88%91.md) | [English Ver](https://github.com/Xeift/Kizmeow-NFT-Mint-Progress-Discord-Bot/blob/main/README.md)
+### [中文版](https://github.com/Xeift/Kizmeow-NFT-Mint-Progress-Discord-Bot/blob/main/%E8%AE%80%E6%88%91.md) | [English Ver](https://github.com/Xeift/Kizmeow-NFT-Mint-Progress-Discord-Bot/blob/main/README.md)
 A Discord bot wrote with Python. Kizmeow let you track mint progress of your NFT project and display them by editing channel name.
 
 If you like this project, please give me star on the upper right corner:)
