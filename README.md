@@ -1,4 +1,4 @@
-# Kizmeow-NFT-Mint-Progress-Discord-Bot(editing, I'll finish it tommorow, I'm too tired now UwU)
+# Kizmeow-NFT-Mint-Progress-Discord-Bot
 
 
 ### [中文版](https://github.com/Xeift/Kizmeow-NFT-Mint-Progress-Discord-Bot/blob/main/%E8%AE%80%E6%88%91.md) | [English Ver](https://github.com/Xeift/Kizmeow-NFT-Mint-Progress-Discord-Bot/blob/main/README.md)
