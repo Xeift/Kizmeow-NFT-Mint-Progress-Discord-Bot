@@ -68,6 +68,7 @@ Add the bot role to the voice channel and give it the following permission: `vie
 
 ![image](https://user-images.githubusercontent.com/80938768/156951642-b6e55c46-9e92-4020-a5e5-224c0a4594b5.png)
 
+We don't want others modify our config, so create a role called `Bot Admin`, only user with this role can use commands
 
 invite the bot to your server and type `/config` to setup your bot.
 
